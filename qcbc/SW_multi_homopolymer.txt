@@ -1,0 +1,10 @@
+name	seq	homopolymer_length
+seq_0	AAACCCGG	1,2,0,0,0,0,0
+seq_1	GGGTTTGT	0,2,0,0,0,0,0
+seq_2	GTGGCGTC	1,0,0,0,0,0,0
+seq_3	TCGCCTGC	1,0,0,0,0,0,0
+seq_4	GCTTCTCC	2,0,0,0,0,0,0
+seq_5	CCACGACT	1,0,0,0,0,0,0
+seq_6	CTACAAGC	1,0,0,0,0,0,0
+seq_7	GTAGAATC	1,0,0,0,0,0,0
+seq_8	TCATGATT	1,0,0,0,0,0,0
